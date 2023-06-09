@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6E7-CDBD
+
+ Directory of C:\Users\lenovo\Desktop\java programs
+
+06/09/2023  04:11 PM    <DIR>          .
+06/09/2023  04:11 PM    <DIR>          ..
+06/09/2023  04:09 PM               475 Hello.class
+06/09/2023  01:21 PM               143 Hello.java
+06/09/2023  04:11 PM                 0 index.txt
+               3 File(s)            618 bytes
+               2 Dir(s)  19,295,703,040 bytes free
